@@ -29,6 +29,8 @@
 .nav-brand {
   font-size: 24px;
   font-family: "zentry", cursive;
+  font-feature-settings: "ss01" on;
+
   font-weight: bold;
   color: var(--color-off-white);
   letter-spacing: 2px;
